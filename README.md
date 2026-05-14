@@ -12,5 +12,5 @@ Nesse momento, o repositório está em construção e o README ainda será atual
 
 Vamos aprender a fazer um commit local.
 
-
+Aprendemos a fazer um commit local
 
