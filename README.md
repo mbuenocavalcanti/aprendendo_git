@@ -2,7 +2,7 @@
 
 Docente: Daniel R. Cassar
 
-Aluna: Mariana B. Cavalcanti
+Discente: Mariana B. Cavalcanti
 
 Ilum Escola de Ciencia, CNPEM.
 
