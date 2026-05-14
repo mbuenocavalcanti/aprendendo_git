@@ -14,3 +14,6 @@ Vamos aprender a fazer um commit local.
 
 Aprendemos a fazer um commit local
 
+Alterando um arquivo na nuvem.
+
+
