@@ -1,2 +1,11 @@
-# aprendendo_git
-Repositório da aula de git na Ilum 14/05
+# Aula de git 2026
+
+Docente: Daniel R. Cassar
+
+Aluna: Mariana B. Cavalcanti
+
+Ilum Escola de Ciencia, CNPEM.
+
+Repositório da aula de git na Ilum 14/05.
+
+Nesse momento, o repositório está em construção e o README ainda será atualizado.
